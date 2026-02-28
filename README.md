@@ -56,3 +56,4 @@ This template is pre-configured for Cloudflare Pages deployment. Connect your re
 - [CommerceJS Documentation](https://github.com/commerce-js/commerce.js)
 - [Nuxt Documentation](https://nuxt.com/docs)
 - [Nuxt UI](https://ui.nuxt.com)
+
